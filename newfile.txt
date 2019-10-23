@@ -1,3 +1,8 @@
 this is a new file
 this is the changes
 this is changes from GitHub
+
+What is the difference between add, commit, and push?
+Answer: 'add' is an action to add changes to the staging area.
+        'commit' is an action to submit changes from staging area to local branch.
+        'push' is an action to update remote branch using local branch.
